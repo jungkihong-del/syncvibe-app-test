@@ -1,0 +1,8 @@
+
+{
+  "name": "SyncVibe: Real-time MSP Interpreter",
+  "description": "A professional real-time audio interpretation tool for Cloud MSP teams, facilitating seamless communication between Korean and Vietnamese engineers with side-by-side original and translated transcripts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
